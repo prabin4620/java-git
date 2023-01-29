@@ -4,5 +4,6 @@ public class Student {
     String studentName;
     String studentFatherName;
     String studentMotherName;
+    int studentRollNumber;
 
 }
